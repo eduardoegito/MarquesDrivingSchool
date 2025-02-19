@@ -9,7 +9,7 @@ const UsefulLinks = () => {
             <li>Prepare for your knowledge test. 
             </li>
           </a>
-          <a href='#'>
+          <a href='#top'>
             <li>You can also download the app.
             </li>
           </a>
